@@ -1,0 +1,13 @@
+name = "JourneyMapStages"
+filename = "JourneyMapStages-1.12.2-2.0.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7bf27633a3f56e5518e621bbb2317d9965b0d388"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2687563
+project-id = 289753

@@ -1,0 +1,13 @@
+name = "[ANGRY PIXEL] The Betweenlands"
+filename = "TheBetweenlands-3.5.10-universal.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b62f1992f3f31b5cbbdff532a4c079919357a5ee"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2922065
+project-id = 243363

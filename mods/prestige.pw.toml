@@ -1,0 +1,13 @@
+name = "Prestige"
+filename = "Prestige-1.12.2-1.1.30.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "636d4dde7de48e3028badd054755e6a32d3e1d30"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2635317
+project-id = 290734

@@ -1,0 +1,13 @@
+name = "BuildCraft|Silicon"
+filename = "buildcraft-silicon-7.99.24.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "52e5271c07170a6ddb14e513406dc92c79459919"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2702037
+project-id = 231311

@@ -1,0 +1,13 @@
+name = "Ore Prospectors"
+filename = "prospectors-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "57c1c05c73f6e5a159ed7f3a218638ed605c505b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2581578
+project-id = 275086

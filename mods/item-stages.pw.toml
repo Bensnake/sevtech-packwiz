@@ -1,0 +1,13 @@
+name = "Item Stages"
+filename = "ItemStages-1.12.2-2.0.49.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "be27b327fc7fc47c71a0a296ad0a2a3571f24318"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2696766
+project-id = 280316

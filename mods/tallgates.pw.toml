@@ -1,0 +1,13 @@
+name = "TallGates"
+filename = "TallGates-1.12.2-1.0.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "31a6dec3ad2e6190e5719c595ee7bf23163d1b99"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2512376
+project-id = 283913

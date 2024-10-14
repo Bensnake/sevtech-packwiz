@@ -1,0 +1,13 @@
+name = "Yoyos"
+filename = "yoyos_1.12.2-1.3.0.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fa07c0990db1ab668b6dc6660d2e7e2e0f9eb37a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2722622
+project-id = 262692

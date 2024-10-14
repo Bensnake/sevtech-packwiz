@@ -1,0 +1,13 @@
+name = "PrimalCore"
+filename = "PrimalCore-1.12.2-0.6.104.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3733c17e167cc8ea00d5a5a7d5def561d80f2f7a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2638197
+project-id = 247907

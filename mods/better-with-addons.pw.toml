@@ -1,0 +1,13 @@
+name = "Better With Addons"
+filename = "Better With Addons-0.50-hotfix.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "934bfe5f1b9f5eacaf457f023470dff62e6ac35c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2705059
+project-id = 268326

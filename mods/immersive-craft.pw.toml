@@ -1,0 +1,13 @@
+name = "Immersive Craft"
+filename = "immcraft-1.12-1.6.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1a3b1306838152d4bed38688844ffd8218878fa4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2704408
+project-id = 241268

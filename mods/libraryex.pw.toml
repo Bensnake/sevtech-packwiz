@@ -1,0 +1,13 @@
+name = "LibraryEx"
+filename = "LibEx-1.12.2-1.0.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dc9c3378be34b5e0c1f981d0a6925d224de20b75"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2607786
+project-id = 298965

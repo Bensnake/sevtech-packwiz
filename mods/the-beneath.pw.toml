@@ -1,0 +1,13 @@
+name = "The Beneath"
+filename = "The Beneath-1.12.2-1.5.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "841c10c87e73045e62903ae6c2de4c824d7680e8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2704839
+project-id = 254629

@@ -1,0 +1,13 @@
+name = "PrimalChests"
+filename = "PrimalChests-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a8c6c71f214824a30f8683b4051fd8779474f17d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2542889
+project-id = 275137

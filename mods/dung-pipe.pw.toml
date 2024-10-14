@@ -1,0 +1,13 @@
+name = "Dung Pipe"
+filename = "Dung Pipe-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0eef6e30e71f88371ec80c7a088090d4b0a2b18b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2565709
+project-id = 273187

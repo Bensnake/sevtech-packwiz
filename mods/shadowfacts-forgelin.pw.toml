@@ -1,0 +1,13 @@
+name = "Shadowfacts' Forgelin"
+filename = "Forgelin-1.8.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fea646ff3ff08026c0185b04906eeedd170e79ff"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2640952
+project-id = 248453

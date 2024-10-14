@@ -1,0 +1,13 @@
+name = "Carry On"
+filename = "CarryOn MC1.12.2 v1.12.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7b299c131d0ace1fff960946ad129eaf8f3d92a8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2818975
+project-id = 274259

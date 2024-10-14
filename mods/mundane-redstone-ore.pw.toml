@@ -1,0 +1,13 @@
+name = "Mundane Redstone Ore"
+filename = "MundaneRedstone-1.1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f7e85e4c7ff25cf36b220333c65d638d4ea681c6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2643830
+project-id = 273930

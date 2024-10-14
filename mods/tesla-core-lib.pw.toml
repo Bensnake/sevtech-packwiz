@@ -1,0 +1,13 @@
+name = "Tesla Core Lib"
+filename = "tesla-core-lib-1.12.2-1.0.15.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3e8b6133163f44644b7911027a986f4a2bf3c100"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2580052
+project-id = 254602

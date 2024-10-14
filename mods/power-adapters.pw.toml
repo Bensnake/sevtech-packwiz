@@ -1,0 +1,13 @@
+name = "Power Adapters"
+filename = "PowerAdapters-1.12.2-1.0.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9ffe050ef271c9b8b1f8b4be4c974a22c1a4048a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2556837
+project-id = 287606

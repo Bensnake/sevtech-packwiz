@@ -1,0 +1,13 @@
+name = "SpatialCompat"
+filename = "spatialservermod-1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d6d78ba9980563f80f167eaa2c237945395208b4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2525554
+project-id = 277136

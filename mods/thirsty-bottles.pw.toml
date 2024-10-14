@@ -1,0 +1,13 @@
+name = "Thirsty Bottles"
+filename = "ThirstyBottles-1.12.2-2.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c4be60c50e5218d57afb14271ae3f844fead35f1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2885190
+project-id = 263498

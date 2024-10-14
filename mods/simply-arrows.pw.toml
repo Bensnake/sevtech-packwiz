@@ -1,0 +1,13 @@
+name = "Simply Arrows"
+filename = "SimplyArrows-1.12.2-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bf25c9f7a09ba9e54077a9f9e6568d57f9406ab6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2536317
+project-id = 286170

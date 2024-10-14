@@ -1,0 +1,13 @@
+name = "Magma Monsters"
+filename = "MagmaMonsters-0.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a5ae56b0d1cc410c4c90fca772fbdb395bddb8bb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2463637
+project-id = 262292

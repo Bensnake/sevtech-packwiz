@@ -1,0 +1,13 @@
+name = "BuildCraft|Builders"
+filename = "buildcraft-builders-7.99.24.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b3aa64ad188845d0d1b7250cdb0d888697ef707c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2702034
+project-id = 231307

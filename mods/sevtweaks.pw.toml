@@ -1,0 +1,13 @@
+name = "SevTweaks"
+filename = "SevTweaks-0.4.0-1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e0588487b71d425055c68c0e713732f8f2afaf01"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3049834
+project-id = 294088

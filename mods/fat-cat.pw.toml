@@ -1,0 +1,13 @@
+name = "Fat Cat"
+filename = "FatCat-0.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f21649bb39d2744c8cc282a49d3a8ef1b65b25a5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2544227
+project-id = 290703

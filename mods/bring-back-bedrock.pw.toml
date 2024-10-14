@@ -1,0 +1,13 @@
+name = "Bring Back Bedrock"
+filename = "BringBedrockBack-0.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e018685ecadf22f7349f223036813866e90395e0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3046640
+project-id = 402529

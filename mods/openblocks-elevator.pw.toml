@@ -1,0 +1,13 @@
+name = "OpenBlocks Elevator"
+filename = "ElevatorMod-1.12.2-1.4.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2aef30c410cecc38be91c822d1b37ca74bcce57e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2715224
+project-id = 250832

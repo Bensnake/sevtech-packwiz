@@ -1,0 +1,13 @@
+name = "Dimensional Control"
+filename = "DimensionalControl-1.12.2-2.13.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c37cc10e4c76885a2dc4cabd1e7f5a7e29f79acb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2739191
+project-id = 229588

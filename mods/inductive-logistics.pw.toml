@@ -1,0 +1,13 @@
+name = "Inductive Logistics"
+filename = "InductiveLogistics-1.12.2-1.3.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0e4db3323d2e1155df5992ef1c28d1dce2337dd5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2800403
+project-id = 279053

@@ -1,0 +1,13 @@
+name = "Building Gadgets"
+filename = "BuildingGadgets-2.8.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "37d89ec4d0a92398321ff78dddc491fef6186f31"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2928313
+project-id = 298187

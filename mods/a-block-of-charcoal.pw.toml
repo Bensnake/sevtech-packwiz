@@ -1,0 +1,13 @@
+name = "A Block of Charcoal"
+filename = "A Block of Charcoal-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "410045a2d24fae80451a40b46306dfa567c6a46f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2574220
+project-id = 251079

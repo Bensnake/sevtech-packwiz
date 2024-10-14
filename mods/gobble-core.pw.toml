@@ -1,0 +1,13 @@
+name = "Gobble Core"
+filename = "GobbleCore-1.12-0.1.6.35.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "46f71df7e8f97f599776a9b0df9a7b4491c9d11c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2518265
+project-id = 269863

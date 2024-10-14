@@ -1,0 +1,13 @@
+name = "Road Runner"
+filename = "roadrunner-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "83c3fd831c764a184245030d38b02b6ceeee9865"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2468500
+project-id = 275156

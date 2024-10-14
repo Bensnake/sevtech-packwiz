@@ -1,0 +1,13 @@
+name = "Streams"
+filename = "Streams-1.12-0.4.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9ee62e24b308a4f05fbd73094deb761f11c20bb9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2861235
+project-id = 229769

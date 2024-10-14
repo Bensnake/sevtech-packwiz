@@ -1,0 +1,13 @@
+name = "\"To the Bat Poles!\""
+filename = "tothebatpoles-1.12.2-1.1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5d21fe498ab9979641794d727e404b0aa96e5fa8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2575349
+project-id = 272190

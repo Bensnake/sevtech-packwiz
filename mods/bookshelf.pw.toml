@@ -1,0 +1,13 @@
+name = "Bookshelf"
+filename = "Bookshelf-1.12.2-2.3.581.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bf78ed79d17151a6fb1ec739c6a21ffdb8de3822"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2717168
+project-id = 228525

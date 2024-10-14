@@ -1,0 +1,13 @@
+name = "AbyssalCraft Integration"
+filename = "AbyssalCraft Integration-1.12.2-1.11.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7b3058b7c90bcc062c71022a9ab29219089640d3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2959100
+project-id = 234851

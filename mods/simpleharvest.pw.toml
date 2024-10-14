@@ -1,0 +1,13 @@
+name = "SimpleHarvest"
+filename = "Harvest-1.12-1.2.7-20.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6b5a59fdf03e7b9b0f02d4310c24f1df5c9a7f0f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2645984
+project-id = 240783

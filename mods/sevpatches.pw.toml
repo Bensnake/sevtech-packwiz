@@ -1,0 +1,13 @@
+name = "SevPatches"
+filename = "sevpatches-1.9-10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2621d372c5232454cf0321b5b2008ed1a45616ec"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3485344
+project-id = 382023

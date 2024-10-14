@@ -1,0 +1,13 @@
+name = "JustEnoughIDs"
+filename = "JustEnoughIDs-1.0.3-55.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ed63fd63fada30b9ab4655b4f407f937ce950c2f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2919737
+project-id = 296289

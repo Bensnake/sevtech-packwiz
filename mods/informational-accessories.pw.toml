@@ -1,0 +1,13 @@
+name = "Informational Accessories"
+filename = "InfoAccessories-1.12.2-1.0.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9bf3824eb4d474eedd455f648fb16c3d4279ad4d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2644009
+project-id = 278063

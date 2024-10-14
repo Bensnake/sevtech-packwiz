@@ -1,0 +1,13 @@
+name = "Quick Leaf Decay"
+filename = "QuickLeafDecay-MC1.12.1-1.2.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0e4a3a3d477a12d2c1baee3447fde47bbe36a9e5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2469364
+project-id = 225839

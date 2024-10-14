@@ -1,0 +1,13 @@
+name = "Realistic Item Drops"
+filename = "RealisticItemDrops-1.2.14.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b9ab3f37a13c78d8c3c3fb4257374ad4ae90ae1b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2630384
+project-id = 245620

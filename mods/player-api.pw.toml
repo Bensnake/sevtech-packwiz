@@ -1,0 +1,13 @@
+name = "Player API"
+filename = "PlayerAPI-1.12.1-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "45be6effdc0f96c266c5c7a2bd46ab80e440bd79"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2501030
+project-id = 228969

@@ -1,0 +1,13 @@
+name = "Player Skin Mob"
+filename = "playerskin-1.12.2-1.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "eac077dcf2fd92367751f1758d6dba27827ab929"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2549655
+project-id = 281132

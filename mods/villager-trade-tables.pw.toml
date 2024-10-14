@@ -1,0 +1,13 @@
+name = "Villager Trade Tables"
+filename = "VillagerTrades-1.12-0.6.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cfee49986232150b46c07a14e2f5bda11627e7c2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2441265
+project-id = 260621

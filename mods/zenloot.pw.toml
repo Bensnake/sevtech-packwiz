@@ -1,0 +1,13 @@
+name = "ZenLoot"
+filename = "zenloot-0.1-1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a7d3e9210eaad6000b0dc86406af426ad4640e31"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3093546
+project-id = 415657

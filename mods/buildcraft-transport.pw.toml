@@ -1,0 +1,13 @@
+name = "BuildCraft|Transport"
+filename = "buildcraft-transport-7.99.24.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6d993d9eb6c164dd9e5a1b878903994be6e5c694"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2702038
+project-id = 231312

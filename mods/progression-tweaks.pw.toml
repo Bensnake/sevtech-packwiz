@@ -1,0 +1,13 @@
+name = "Progression Tweaks"
+filename = "ProgressionTweaks-1.12.2-0.3.40.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9e17cab711f077df305377ab1f573ebe4dc10aae"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2542709
+project-id = 284648

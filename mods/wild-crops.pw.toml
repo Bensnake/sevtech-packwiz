@@ -1,0 +1,13 @@
+name = "Wild Crops"
+filename = "WildCrops-1.12-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e693394dcfe97cae3f13bde5d7f829ba4462ab7f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2512819
+project-id = 268819

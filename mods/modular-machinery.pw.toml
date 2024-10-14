@@ -1,0 +1,13 @@
+name = "Modular Machinery"
+filename = "modularmachinery-1.9.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d355b3fd38849a2e454d304e4888c88fcc6ed126"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2664066
+project-id = 270790
