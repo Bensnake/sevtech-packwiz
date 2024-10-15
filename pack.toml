@@ -11,3 +11,6 @@ hash = "31ef99369a0d2d445e18b574677c54e51c41068fe0970ef1ee7ba0c6cef954e0"
 [versions]
 forge = "14.23.5.2860"
 minecraft = "1.12.2"
+
+[options]
+acceptable-game-versions = ["1.12.2"]
